@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Tu eres la razón mas bonita de Tlaxcala')
+    alert('Te voy a invitar al cine a ver la de la monja de sor María nicolasa')
 });
 
 const noBtn = document.querySelector('#noBtn');
